@@ -15,7 +15,7 @@ steps:
     workingDirectory: '$(Build.ArtifactStagingDirectory)'
 - task: CmdLine@2
   inputs:
-    script: 'git config --global user.email "michel.nyx@hotmail.com" && git config --global user.name "Michel Oliveira"'
+    script: 'git config --global user.email "michel.nyx@outlook.com" && git config --global user.name "Michel Oliveira"'
     workingDirectory: '$(Build.ArtifactStagingDirectory)'
 - task: CmdLine@2
   inputs:
