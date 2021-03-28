@@ -93,6 +93,10 @@
 		<lastmod>2020-12-22T11:22:26-04:00</lastmod>
 	</url>
 	<url>
+		<loc>https://aag.solutions/produtos/</loc>
+		<lastmod>2021-03-28T18:03:22-03:00</lastmod>
+	</url>
+	<url>
 		<loc>https://aag.solutions/produtos/soluven/</loc>
 		<lastmod>2021-03-28T17:37:25-03:00</lastmod>
 		<image:image>
@@ -113,10 +117,6 @@
 		<image:image>
 			<image:loc>https://aag.solutions/wp-content/uploads/2021/03/soluven-4-1024x530.png</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://aag.solutions/produtos/</loc>
-		<lastmod>2021-03-28T17:12:13-03:00</lastmod>
 	</url>
 	<url>
 		<loc>https://aag.solutions/contribuicoes/</loc>
