@@ -11,7 +11,7 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - AAG Soluções • Revenda, Licenças, Serviços, Nuvem, Firewalls</title>
+						<title>Sitemap de locais - AAG Soluções • Revenda, Licenças, Serviços, Nuvem, Firewalls</title>
 					</xsl:when>
 					<xsl:otherwise>
 						<title>XML de sitemap - AAG Soluções • Revenda, Licenças, Serviços, Nuvem, Firewalls</title>
